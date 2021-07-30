@@ -11,6 +11,7 @@
   --very-dark-violet: hsl(270, 9%, 17%);
   --dark-grayish-violet: hsl(273, 4%, 51%);
   --very-light-gray: hsl(0, 0%, 98%);
+  --green: rgb(118,209,174);
 }
 
 body {
@@ -95,6 +96,7 @@ p {
 
 .flex {
   display: flex;
+  background-color: var(--green);
   align-items: center;
   justify-content: space-between;
 }
