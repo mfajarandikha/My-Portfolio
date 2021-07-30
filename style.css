@@ -96,7 +96,7 @@ p {
 
 .flex {
   display: flex;
-  background-color: var(--green);
+  background-color: var(--very-dark-violet);
   align-items: center;
   justify-content: space-between;
 }
