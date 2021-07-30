@@ -96,7 +96,6 @@ p {
 
 .flex {
   display: flex;
-  background-color: var(--very-dark-violet);
   align-items: center;
   justify-content: space-between;
 }
@@ -185,7 +184,7 @@ header * {
   width: 30%;
   margin: 0.5em;
   text-decoration: none;
-  background: #fff;
+  background-color: var(--green);
   color: var(--very-dark-violet);
 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
