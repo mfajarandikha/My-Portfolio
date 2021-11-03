@@ -184,7 +184,7 @@ header * {
   width: 30%;
   margin: 0.5em;
   text-decoration: none;
-  background-color: var(--green);
+  background-color: var(--very-light-gray);
   color: var(--very-dark-violet);
 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
